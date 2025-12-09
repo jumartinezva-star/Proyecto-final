@@ -20,8 +20,8 @@ Aplicación web interactiva para análisis de sentimientos en múltiples idiomas
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/tu-usuario/multilingual-sentiment-analysis.git
-cd multilingual-sentiment-analysis
+git clone [https://github.com/tu-usuario/multilingual-sentiment-analysis.git
+cd multilingual-sentiment-analysis](https://github.com/jumartinezva-star/Proyecto-final.git)
 ```
 
 ### 2. Crear entorno virtual (recomendado)
